@@ -10,4 +10,5 @@ Objectives:
 
 A link to my project URL via GitHub is available [here](https://lexiehansen.github.io/weather-dashboard/).
 
-Here is a screenshot of the completed webpage:
+Here is a screenshot of the completed webpage: <img width="1088" alt="Screen Shot 2021-02-11 at 3 59 37 PM" src="https://user-images.githubusercontent.com/72775548/107709299-32dfad00-6c82-11eb-9033-3ab1867afe1e.png">
+
