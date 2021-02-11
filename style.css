@@ -1,0 +1,31 @@
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin: 0px 0px 10px 0px;
+}
+
+.card {
+    background-color: #D9E6F2;
+}
+
+.low {
+    color: green;
+}
+
+.moderate {
+    color: orange;
+}
+
+.high {
+    color: red;
+}
+
+.vhigh {
+    color: purple;
+}
+
+.extreme {
+    color: black;
+}
